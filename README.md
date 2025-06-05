@@ -36,8 +36,6 @@ No projeto, essa fórmula é aplicada diretamente via TypeScript para prever a c
 ## Estrutura do Projeto
 
 
-├── .bolt/ # Arquivos gerados pelo Bolt (gerenciador usado)\
-├── node_modules/ # Dependências do projeto\
 ├── src/ # Código-fonte da aplicação\
 │ └── ... # Arquivos de lógica e componentes\
 ├── index.html # Página principal\
