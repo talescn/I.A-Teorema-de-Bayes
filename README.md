@@ -84,7 +84,7 @@ Lógica do Teorema
 A lógica de aplicação do Teorema de Bayes está implementada em arquivos TypeScript dentro da pasta src/. O usuário insere dados, que são processados para calcular a probabilidade de cada classe com base nos dados históricos ou nas entradas fornecidas.
 
 Autor
-Tales C. N.
+Tales de Campos Noronha
 Aluno do curso de Ciência da Computação – UniAnchieta
 
 Licença
